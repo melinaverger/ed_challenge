@@ -1,0 +1,24 @@
+title = 'Educational dataset'
+keywords = 'classification'
+authors = 'Mélina Verger'
+resource_url = ''
+contact_name = 'Mélina Verger'
+contact_url = 'meverger@gmail.com'
+license = ''
+date_created = '20/08/2021'
+past_usage = ''
+description = 'The data comes from learners' interactions during an 1-hour online course on a general topic.'
+representation = 'features'
+real_feat_num = 15
+probe_num = 0
+frac_probes =   0
+feat_type = { 'Numerical' 'Categorical' 'Binary' }
+feat_type_freq = [     0.73     0.20     0.07 ]
+label_names = { 'pass' 'fail' }
+train_label_freq = [ 0.58 0.42 ]
+train_frac_missing = 0
+valid_label_freq = [ 0.75 0.25 ]
+valid_frac_missing = 0
+test_label_freq = [ 0.60 0.40 ]
+test_frac_missing = 0
+
