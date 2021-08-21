@@ -1,4 +1,4 @@
-# Codalab challenge - Predicting students' performance in online courses using multiple data
+# Predict Students' Performance in Online Courses using Multiple Data Sources (Codalab challenge)
 
 ## Description
 

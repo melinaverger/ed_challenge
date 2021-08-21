@@ -1,6 +1,6 @@
 This is a sample starting kit for the Ed challenge. 
 This uses a dataset built from the data collection of learners' interactions during an 1-hour online course on a general topic.
-The dataset contains 2 classes, pass or fail, refering to wether a student had the average course grade or more.
+The dataset contains 2 classes, fail or pass, referring to wether a student had the average course grade or more.
 
 References and credits: 
 Coming soon...
