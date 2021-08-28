@@ -12,9 +12,9 @@ The dataset is composed by 15 features. The training, validation and test sets c
 
 You will have to perform a binary classification where the two classes, pass (1) or fail (0) refer to whether a student has had the average course grade or more.
 
-References: 
-[Project repository and documentation](https://github.com/melinaverger/ed_project)
-The competition protocol was designed by Isabelle Guyon. 
+References:\
+[Project repository and documentation](https://github.com/melinaverger/ed_project)\
+The competition protocol was designed by Isabelle Guyon.\
 The starting kit was adapted from a Jupyper notebook designed by Balazs Kegl.
 
 Prerequisites:
