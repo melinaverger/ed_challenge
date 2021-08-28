@@ -25,4 +25,6 @@ There are 2 ways of running the script:
 
 ## References
 
-Coming soon...
+[Project repository and documentation](https://github.com/melinaverger/ed_project)
+The competition protocol was designed by Isabelle Guyon. 
+The starting kit was adapted from a Jupyper notebook designed by Balazs Kegl.

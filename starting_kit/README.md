@@ -1,9 +1,9 @@
 This is a sample starting kit for the Ed challenge. 
-This uses a dataset built from the data collection of learners' interactions during an 1-hour online course on a general topic.
+This uses a dataset built from the data collection of learners' information and interactions during a 1-hour online course that is on the topic of the brain and intended for a general audience.
 The dataset contains 2 classes, fail or pass, referring to whether a student had the average course grade or more or not.
 
-References and credits: 
-Coming soon...
+References: 
+[Project repository and documentation]( https://github.com/melinaverger/ed_project)
 
 Prerequisites:
 Install Anaconda Python 3.8.3 
